@@ -67,6 +67,7 @@ The customers are categorized based on their membership status:
 
 #### Total Sales Revenue (Last Month)
 - The total revenue generated in the last month is 116,844.71.
+- 
   <img width="166" alt="image" src="https://github.com/user-attachments/assets/eeb55356-cf14-47c1-8acb-263e11bdab82" />
 
 #### Peak Sales Days of the Week
