@@ -71,11 +71,14 @@ The customers are categorized based on their membership status:
 
 #### Peak Sales Days of the Week
 - The days of the week are analyzed to identify peak sales days as below.
-  
-- Promotions can be 
+  <img width="260" alt="image" src="https://github.com/user-attachments/assets/90bab67a-15df-4b33-a6ec-2d88238bf207" />
+
+- Promotions can be run on Friday and Wednesday as most revenue is generated on these days.
 
 #### Products Generating the Highest Revenue (Last 3 Months)
-- Products with the highest revenue in the last 3 months are identified.
+- Products with the highest revenue in the last 3 months are Wallets,Watches and Phone Cases.
+  <img width="208" alt="image" src="https://github.com/user-attachments/assets/4148808a-d721-4f96-aba2-0dcc46238027" />
+
 - These products are critical to the business and should be heavily promoted.
 
 ---
@@ -101,7 +104,6 @@ WHERE s.sale_date >= (
 The analysis provides actionable insights into customer spending, product performance, and sales trends. These findings can be leveraged to optimize inventory, target high-value customers, and plan promotions effectively.
 
 ## Author
-[Your Name]
+Acar Emmanuel
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
