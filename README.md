@@ -72,8 +72,8 @@ The customers are categorized based on their membership status:
 
 #### Peak Sales Days of the Week
 - The days of the week are analyzed to identify peak sales days as below.
-  <img width="260" alt="image" src="https://github.com/user-attachments/assets/90bab67a-15df-4b33-a6ec-2d88238bf207" />
 
+  <img width="260" alt="image" src="https://github.com/user-attachments/assets/90bab67a-15df-4b33-a6ec-2d88238bf207" />
 - Promotions can be run on Friday and Wednesday as most revenue is generated on these days.
 
 #### Products Generating the Highest Revenue (Last 3 Months)
