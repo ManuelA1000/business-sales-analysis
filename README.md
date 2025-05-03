@@ -78,8 +78,8 @@ The customers are categorized based on their membership status:
 
 #### Products Generating the Highest Revenue (Last 3 Months)
 - Products with the highest revenue in the last 3 months are Wallets,Watches and Phone Cases.
+  
   <img width="208" alt="image" src="https://github.com/user-attachments/assets/4148808a-d721-4f96-aba2-0dcc46238027" />
-
 - These products are critical to the business and should be heavily promoted.
 
 ---
